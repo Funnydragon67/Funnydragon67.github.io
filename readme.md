@@ -6,4 +6,3 @@
 * git push origin main
 * git log
 * git checkout
-
